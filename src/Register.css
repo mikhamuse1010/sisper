@@ -1,0 +1,22 @@
+.login {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    padding: 100
+  }
+  
+  .login-header {
+    text-align: center;
+    color: white;
+    padding: 200px 300px 0px 300px
+  }
+
+  .login-pane {
+    text-align: center;
+    color: white;
+    padding: 200px 300px 100px 300px
+  }
